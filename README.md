@@ -1,6 +1,7 @@
 # lua-rhythm-game
 
 ![Ingame Image](https://i.ibb.co/Ry8rqV9/in-game.png)
+![Map Selection Menu](https://i.ibb.co/Qrmp4Xj/map-select-screen.png)
 
 A little challenge I set myself, to build a functioning rhythm game over the weekend. The game is playable but is missing held notes, which is something I plan on implementing at a later date.
 
